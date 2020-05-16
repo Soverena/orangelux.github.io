@@ -327,7 +327,7 @@ ul.about-list li span{
 
 /* Team Section */
 #tf-team{
-	background: url(../img/content/appliance-carpet.jpg);
+	background: url(../img/content/appliance.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -455,7 +455,7 @@ img.img-circle.team-img {
 
 /* Clients Section */
 #tf-clients{
-	background: url(../img/content/apartment-architecture-carpet-chair-276583.jpg);
+	background: url(../img/content/apartment-architecture.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
